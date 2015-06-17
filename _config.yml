@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            No Boring Days
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Kevin Rothermel
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Seeking Asylum "
   email: 
   disqus-shortname: 
   twitter: #username
