@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            No Boring Days 
+title:            Site Title
 locale:           en_US
-url:              kevinrothermel.github.io
+url:              
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Kevin Rothermel
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "Runing scared from Squarespace"
+  bio: "Describe your self."
   email: 
   disqus-shortname: 
   twitter: #username
