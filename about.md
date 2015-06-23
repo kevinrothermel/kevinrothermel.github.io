@@ -6,11 +6,11 @@ title: About
 
 My name is Kevin Rothermel. I'm an account planner at the [Martin Agency][0], in Richmond, Virginia. 
 
-I work on brand strategy, digital strategy and otherwise solve problems for some pretty big companies. My last name looks harder to say than it is, which is a good thing since my wife and our two boys are stuck with it. 
+I work on brand strategy, digital strategy and otherwise solve problems for some pretty big companies. 
 
 I've been writing this site since the heady days of 2005. It's usually about what happens when people, technology and creativity meet. The world as user-experience. That sort of thing.
 
-...but sometimes it'll be about things like salsa or quantum physics.
+...but sometimes it'll be about salsa or quantum physics.
 
 I'm [@kevinrothermel on Twitter][1], my [LinkedIn is here][2], and I can be emailed at my last name at gmail dot com.
 
