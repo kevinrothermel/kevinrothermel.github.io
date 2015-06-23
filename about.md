@@ -7,24 +7,31 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Kevin Rothermel. I'm an account planner at the [Martin Agency][0], in Richmond, Virginia. 
 
-There are currently two themes built on Poole:
+I work on brand strategy, digital strategy and otherwise solve problems for some pretty big companies. My last name looks harder to say than it is, which is a good thing since my wife and our two boys are stuck with it. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I've been writing this site since the heady days of 2005. It's usually about what happens when people, technology and creativity meet. The world as user-experience. That sort of thing.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+...but sometimes it'll be about things like salsa or quantum physics.
 
-## Setup
+I'm [@kevinrothermel on Twitter][1], my [LinkedIn is here][2], and I can be emailed at my last name at gmail dot com.
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+You can subscribe to the [RSS feed here][10]. 
 
-Thanks for reading!
+**NB:**  
+_The Oxford Comma will always have a home here._
+
+[0]: http://www.martinagency.com/home
+[1]: http://twitter.com/kevinrothermel
+[2]: www.linkedin.com/in/kevinrothermel/
+[3]: www.statamic.com
+[4]: http://daringfireball.net/projects/markdown/
+[5]: www.bywordapp.com
+[6]: http://omz-software.com/editorial/
+[7]: http://agiletortoise.com/drafts/
+[8]: https://panic.com/coda/
+[9]: http://www.sublimetext.com
+[10]: http://kevinrothermel.com/blog?format=rss
