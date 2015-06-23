@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
 My name is Kevin Rothermel. I'm an account planner at the [Martin Agency][0], in Richmond, Virginia. 
 
