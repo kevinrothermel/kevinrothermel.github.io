@@ -3,6 +3,8 @@ layout: post
 title: Introducing Lanyon
 ---
 
+Whoa Whoa Whoa! 
+
 ![](https://camo.githubusercontent.com/3bd20e09d67cf08d75fcc2b18083ed3536edb635/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f39383638312f313832353236392f62653035656332302d373162302d313165332d393165612d6139313338656630373138362e706e67)
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
